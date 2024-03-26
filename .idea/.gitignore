@@ -1,3 +1,16 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+.logs
+.classpath
+.project
+.settings/
+target/
+.idea
+*.iws
+*.iml
+*.ipr
+/target/
+*/target/**
+**/META-INF/
+!.mvn/wrapper/maven-wrapper.jar
